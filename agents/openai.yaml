@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explain in depth"
+  short_description: "Teach any subject through five required depths"
+  default_prompt: "Use $explain-in-depth to plan a five-depth explanation of my subject, including the mandatory detailed map."
